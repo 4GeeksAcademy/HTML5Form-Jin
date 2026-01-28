@@ -1,0 +1,26 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background: black;
+}
+
+.myRectangle {
+ 
+    background-image: url("/assets/img/1000_F_314090534_VfHNqaNnbHnNl0dH8of0dEPurcfhsAOD.jpg");
+
+
+    background-size: cover;     
+    background-position: center; 
+    background-repeat: no-repeat;
+background-size: 130%;
+    
+    min-height: 500px; 
+    border-radius: 40px !important;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.suite{
+    color: black;
+}
